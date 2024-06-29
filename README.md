@@ -28,4 +28,4 @@ To build and run production build
 
 ## 🔗 Live Link
 
-[[LIve Link]](https://github.com/Anol18/flexi-plan.git)
+[[LIve Link]](https://flexi-plan-gamma.vercel.app/)
